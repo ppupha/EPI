@@ -1,0 +1,51 @@
+01:57:58:074 2022.03.01 AutoPico 16.1.0.0
+Official Site: 
+http://forums.mydigitallife.info/forums/51-KMS-tools
+KMSpico v10.2.0
+Time Start: 3/1/2022 1:57:57 AM
+
+01:57:58:134 Checking Internet Connection...
+01:57:58:294 Windows Detected: Windows 10 Pro : Professional : 6.3 : 22000
+01:57:58:314 Loading SECOH-QAD...
+01:57:58:324 Set Registry : Image File Execution Options\SppExtComObj.exe:Debugger
+01:57:58:324 Using host Forward: 10.82.67.174:1688
+01:57:58:324 Using host Local: 127.128.232.28:1688
+01:57:58:324 Using method: SECOH-QAD
+01:57:58:344 Opening Firewall Port...
+01:57:58:454 Opening Firewall App...
+01:57:59:114 Error: Opening Firewall App
+01:57:59:124 KMSEmulator Port: 1688
+01:57:59:124 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+01:57:59:144 KMSEmulator running port: 1688
+01:57:59:164 Office 2016 Found: C:\Program Files (x86)\Microsoft Office\root\Office16
+01:57:59:164 Office 2010 Skipped
+01:57:59:174 Office 2013 Skipped
+01:58:00:324 Internet Connection Detected
+01:58:00:334 Synchronizing Time...
+01:57:59:586 Time synchronized
+01:58:01:657 Found Office 2016 Products: 1
+01:58:01:787 Name: Office 16, Office16ProPlusVL_KMS_Client edition
+Description: Office 16, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 257080
+LicenseStatus: 1
+PartialProductKey: WFG99
+GenuineStatus: 0
+
+01:58:02:567 Error: Object reference not set to an instance of an object. ᜀ
+01:58:02:567 Office 2016 Skipped
+01:58:04:269 Found Windows Products: 1
+01:58:04:269 Name: Windows(R), Professional edition
+Description: Windows(R) Operating System, RETAIL channel
+GracePeriodRemaining: 0
+LicenseStatus: 1
+PartialProductKey: 3V66T
+GenuineStatus: 0
+
+01:58:04:269 Version Windows Skipped
+01:58:04:269 Closing Firewall Port...
+01:58:05:078 Set Registry : HKEY_CURRENT_USER\Control Panel\Desktop:PaintDesktopVersion
+01:58:05:114 Unloading SECOH-QAD...
+01:58:05:114 Client listener shut down
+01:58:05:119 Del Registry : SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe:
+01:58:05:131 Time Finish: 3/1/2022 1:58:05 AM
+01:58:05:134 Total Time: 7 seconds
